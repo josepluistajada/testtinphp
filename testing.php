@@ -3,6 +3,6 @@
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo boca calcetin 2020</p>'; ?>
+ <?php echo '<p>2020 Hola Mundo boca calcetin</p>'; ?>
  </body>
 </html>
